@@ -1,0 +1,6 @@
+0s : a small monkey sitting on a table eating a donut 
+2s : a small brown and white cat sitting on a table 
+4s : a small dog sitting on a wooden table 
+6s : a small bird sitting on a table next to a wall 
+8s : a small bird sitting on a piece of paper 
+10s : a cat sitting on a bed with a dog 

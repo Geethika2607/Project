@@ -1,0 +1,6 @@
+0s : a small animal in a cage
+2s : this little guy was in the cage eating a piece of chicken.
+4s : a squirrel in a cage
+6s : the bird is looking for food
+8s : this little guy was just sitting in the cage and eating the seeds.
+10s : this is a rabbit
